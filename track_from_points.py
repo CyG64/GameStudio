@@ -2,7 +2,7 @@ import bpy
 import math
 
 # calculate alpha, beta
-# if beta < alpha the track goes CW, else CCW
+# if beta < alpha the track goes CCW, else CW
 # 
 d = 0.5 #distance of track borders from center line (symmetric for now)
 
